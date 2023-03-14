@@ -6,7 +6,7 @@ use <waxbase.scad>
 
 // Total size of tray
 n_jars_per_row = 3;
-n_jar_rows = 3;
+n_jar_rows = 2;
 
 // Intra-jar spacing
 gap_between_jar_sides = 10/7; // mm - spacing between adjacent jars
